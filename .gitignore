@@ -1,13 +1,9 @@
 ref/
 backup/
 *.blend1
-*.fbx
-*.glb
-*.mp4
-*.avi
-*~
 uv.png
 normal.png
+*~
 BL_proxy/
 tmp/
 cache_*/
